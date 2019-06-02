@@ -1,0 +1,3 @@
+C:/Users/mi191328/CLionProjects/PrimeFactorization/cmake-build-debug/CMakeFiles/PrimeFactorization.dir
+C:/Users/mi191328/CLionProjects/PrimeFactorization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mi191328/CLionProjects/PrimeFactorization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
